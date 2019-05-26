@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT alzfi_frat_app_3869.wsgi:application
